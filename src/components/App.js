@@ -4,8 +4,8 @@ export default function App() {
     const [count, setCount] = useState(0);
     return (
         <div>
-            This is a sample stateful and server-side
-            rendered React application.
+            <h1>This is a sample stateful and server-side
+            rendered React application.</h1>
             <br />
             <br />
       Here is a button that will track
